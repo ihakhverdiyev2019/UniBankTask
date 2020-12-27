@@ -1,4 +1,4 @@
-package com.example.demo.Domain;
+package com.example.demo.domains;
 
 
 import com.example.demo.util.TaskStatus;

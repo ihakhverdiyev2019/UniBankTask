@@ -1,7 +1,7 @@
-package com.example.demo.repository;
+package com.example.demo.repositories;
 
-import com.example.demo.Domain.Employee;
-import com.example.demo.Domain.Task;
+import com.example.demo.domains.Employee;
+import com.example.demo.domains.Task;
 import com.example.demo.util.TaskStatus;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;

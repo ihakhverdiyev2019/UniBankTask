@@ -1,13 +1,8 @@
 package com.example.demo.errorHandling;
 
-import com.example.demo.Domain.Employee;
-import org.apache.catalina.connector.Response;
 import org.springframework.http.HttpStatus;
-import org.springframework.web.bind.annotation.ResponseStatus;
-import org.springframework.web.client.HttpStatusCodeException;
 
 import java.util.List;
-import java.util.Objects;
 
 public class ResponseBody {
 

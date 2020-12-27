@@ -1,6 +1,6 @@
 package com.example.demo.service;
 
-import com.example.demo.Domain.Company;
+import com.example.demo.domains.Company;
 
 import java.util.List;
 import java.util.Optional;

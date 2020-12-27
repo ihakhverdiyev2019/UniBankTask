@@ -1,7 +1,7 @@
 package com.example.demo.service;
 
-import com.example.demo.Domain.Employee;
-import com.example.demo.Domain.Task;
+import com.example.demo.domains.Employee;
+import com.example.demo.domains.Task;
 import com.example.demo.util.TaskStatus;
 
 import java.util.List;
